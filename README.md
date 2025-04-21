@@ -1,4 +1,4 @@
-I’m a curious and creative data analyst who loves turning messy data into clear stories 📊. Whether it’s business metrics or everyday patterns — I enjoy finding the “why” behind the numbers 🤔. If I start analyzing trends in my coffee consumption ☕📈 – it's just a regular Monday. Passionate about insights, patterns, and making sense of the chaos 💡.
+I’m a curious and creative data analyst who loves turning messy data into clear stories 📊. Whether it’s business metrics or everyday patterns — I enjoy finding the “why” behind the numbers. If I start analyzing trends in my coffee consumption ☕📈 – it's just a regular Monday. Passionate about insights, patterns, and making sense of the chaos 💡.
 <!--
 **Karatsiuba/Karatsiuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
